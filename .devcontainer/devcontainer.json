@@ -1,0 +1,10 @@
+{
+    "name": "Claude Dev Workspace",
+    "image": "mcr.microsoft.com/devcontainers/base:debian",
+    "remoteUser": "vscode",
+    "features": {
+        "ghcr.io/devcontainers/features/rust:1": {
+            "version": "1.70"
+        }
+    }
+}
